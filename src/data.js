@@ -7,8 +7,8 @@ const data = {
         "about": "Innovative, 6 month's experience, strong in design & development and integration with intuitive problem solving skills. Fully dedicated to work and have ability to solve different types of bugs and issues. Proficient in developing databases, creating interactive User Interfaces, writing and testing codes and implementing new features based on user feedback.",
         "about2": " Seeking a beginner role to enhance and explore my knowledge in the business world. Understanding business goals and combining logic with aesthetics to create beautiful, consistent and functional design solutions",
         // "website": "https://www.akresume.tk/",
-        "image": "Profile Pic.png",
-        "resumedownload": "https://drive.google.com/file/d/1L8EszxVaDoElwJALdc5YqaTmFNtwZ4zn/view",
+        "image": "image/Profile Pic..png",
+        "resumedownload": "https://drive.google.com/drive/u/0/search?q=resume",
         "social": [
             {
                 "name": "facebook",

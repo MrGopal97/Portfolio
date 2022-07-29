@@ -78,53 +78,54 @@ const data = {
     },
         "projects": [
             {
+                
+                    "title": "URL Shortner",
+                    "keySkills": ["React","Nodjs", "Javascript","HTML", "CSS", "Bootstrap",],
+                    "image": "project/P2  URL Shortner.png",
+                    "url": " https://chipper-figolla-bdfe4e.netlify.app/"
+                
             },
              {
                 "title": "Teacher and Student Dash Board",
                 "keySkills": ["React", "Javascript","HTML", "CSS", "Bootstrap"],
-                "image": "project/P3 Teacher and Student Dashboard.jpeg",
+                "image": "project/P3 Teacher and Student Dashboard.png",
                 "url": "https://vocal-pithivier-f0c935.netlify.app"
             },
-            {
-                "title": "URL Shortner",
-                "keySkills": ["React","Nodjs", "Javascript","HTML", "CSS", "Bootstrap",],
-                "image": "project/P2  URL Shortner.jpeg",
-                "url": " https://chipper-figolla-bdfe4e.netlify.app/"
-            },
+            
             {
                 "title": "SB2 Admin",
                 "keySkills": ["React", "Javascript","HTML", "CSS", "Bootstrap"],
-                "image": "project/P4 SB2 Admin.jpeg",
+                "image": "project/P4 SB2 Admin.png",
                 "url": " https://fastidious-cajeta-282a04.netlify.app"
             },
             {
                 "title": "Beweries",
                 "keySkills": ["React", "Javascript","HTML", "CSS", "Bootstrap"],
-                "image": "project/P5 Beweries.jpeg",
+                "image": "project/P5 Beweries.png",
                 "url": "https://wondrous-palmier-b3edef.netlify.app"
             },
             {
                 "title": "Authentication",
                 "keySkills": ["MongoDB", "Nodejs" ,"React", "Javascript","HTML", "CSS", "Bootstrap"],
-                "image": "project/P6 Authentication.jpeg",
+                "image": "project/P6 Authentication.png",
                 "url": " https://gleeful-florentine-a6c02d.netlify.app/login"
             },
             {
                 "title": "MarkDown",
                 "keySkills": ["Nodejs" ,"Express", "React", "Javascript","HTML", "CSS", "Bootstrap"],
-                "image": "project/P7 MarkDown.jpeg",
+                "image": "project/P7 MarkDown.png",
                 "url": " https://super-dolphin-1b0b62.netlify.app/"
             },
             {
                 "title": "Online Shop",
                 "keySkills": ["React", "Javascript","HTML", "CSS", "Bootstrap"],
-                "image": "project/P8 Online Shop.jpeg",
+                "image": "project/P8 Online Shop.png",
                 "url": "https://dancing-pastelito-daf1b0.netlify.app/"
             },
             {
                 "title": "Price Cart",
                 "keySkills": ["Nodejs" ,"Express", "React", "Javascript","HTML", "CSS", "Bootstrap"],
-                "image": "project/P9 Price Cart.jpeg",
+                "image": "project/P9 Price Cart.png",
                 "url": "https://spectacular-halva-36eca7.netlify.app/"
             },
             

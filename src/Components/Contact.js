@@ -75,7 +75,7 @@ function Contact() {
 
                             <li>
                                 <span><PhoneIcon /></span>
-                                <span>+91 637460728</span>
+                                <span>+91 6374607928</span>
                             </li>
                         </ul>
                     </div>

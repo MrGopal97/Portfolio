@@ -8,7 +8,7 @@ const data = {
         "about2": " Seeking a beginner role to enhance and explore my knowledge in the business world. Understanding business goals and combining logic with aesthetics to create beautiful, consistent and functional design solutions",
         // "website": "https://www.akresume.tk/",
         "image": "image/Profile Pic..png",
-        "resumedownload": "https://drive.google.com/drive/u/0/search?q=resume",
+        "resumedownload": "https://drive.google.com/file/d/1DK-mp2Pq9Nob0yxkLZQgFfVyi9bcub66/view",
         "social": [
             {
                 "name": "facebook",
